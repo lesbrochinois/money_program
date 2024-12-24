@@ -12,3 +12,4 @@
 /home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/money_program.pdb
 /home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/money_program.genruntimeconfig.cache
 /home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/ref/money_program.dll
+/home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/money_program.sourcelink.json
