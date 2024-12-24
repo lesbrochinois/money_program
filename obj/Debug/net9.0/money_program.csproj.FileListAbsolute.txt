@@ -1,0 +1,14 @@
+/home/theophile/Desktop/dotnet/money_program/bin/Debug/net9.0/money_program
+/home/theophile/Desktop/dotnet/money_program/bin/Debug/net9.0/money_program.deps.json
+/home/theophile/Desktop/dotnet/money_program/bin/Debug/net9.0/money_program.runtimeconfig.json
+/home/theophile/Desktop/dotnet/money_program/bin/Debug/net9.0/money_program.dll
+/home/theophile/Desktop/dotnet/money_program/bin/Debug/net9.0/money_program.pdb
+/home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/money_program.GeneratedMSBuildEditorConfig.editorconfig
+/home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/money_program.AssemblyInfoInputs.cache
+/home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/money_program.AssemblyInfo.cs
+/home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/money_program.csproj.CoreCompileInputs.cache
+/home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/money_program.dll
+/home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/refint/money_program.dll
+/home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/money_program.pdb
+/home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/money_program.genruntimeconfig.cache
+/home/theophile/Desktop/dotnet/money_program/obj/Debug/net9.0/ref/money_program.dll
